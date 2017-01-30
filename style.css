@@ -1,0 +1,44 @@
+.one{
+	height: 40%;
+	width: 30%;
+	background-color: blue;
+	color: white;
+	display: inline-block;
+	float: middle;
+}
+.two{
+	height: 40%;
+	width: 30%;
+	background-color: red;
+	color: white;
+	display: inline-block;
+	float: middle;
+}
+.three{
+	height: 40%;
+	width: 20%;
+	background-color: yellow;
+	color: white;
+	display: inline-block;
+	float: middle;
+}
+.four{
+	height: 40%;
+	width: 20%;
+	background-color: green;
+	color: white;
+	display: inline-block;
+	float: middle;
+}
+.five{
+	height: 40%;
+	width: 20%;
+	background-color: purple;
+	color: white;
+	display: inline-block;
+	float: middle;
+}
+.main{
+	height: 100%;
+	width: 100%;
+}
